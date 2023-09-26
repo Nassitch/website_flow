@@ -1,3 +1,3 @@
 # website_flow
 
-REMOTE
+LOCAL
